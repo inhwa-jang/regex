@@ -1,0 +1,5 @@
+/[a-zA-Z0-9._+-]+@[a-zA-Z0-9-]+\.[a-zA-Z0-9.]+/gm
+
+dream.coder.ellie@gmail.com
+hello@daum.net
+hello@daum.co.kr
